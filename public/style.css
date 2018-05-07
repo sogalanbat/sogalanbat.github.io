@@ -1,0 +1,39 @@
+
+
+
+
+canvas{
+    position:fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+#animation {
+    background: linear-gradient(to left, #8C67C8, #FF7697);
+    position: fixed;
+}
+
+.about{
+  padding-top:5%;
+}
+
+.icons{
+   display: block;
+  padding-right: 15px;
+}
+
+a{
+  padding-right: 5%;
+}
+
+navbar{
+  color:blue;
+}
